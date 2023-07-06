@@ -26,4 +26,4 @@ jobs:
           app-name: 'cippedsfl'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EEBF923CD3F64764B8E23C94C4BE6979 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2EF756EA345F4E1D86D6D3469BB21CEE }}
